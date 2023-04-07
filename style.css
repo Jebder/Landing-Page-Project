@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.cont1 {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+}
+
+.header {
+    display: flex;
+}
+
+li {
+    list-style: none;
+}
+
+.header-link {
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.awesome-header {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button {
+    color: #3883f6;
+}
+
+.cont2-header {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.giant-paragraph {
+    font-family: "light italic";
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+}
